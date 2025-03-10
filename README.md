@@ -12,6 +12,5 @@
 사용 엔진     : Unreal Engine 5.1
 개발 환경     : Window 10, Visual Studio 2022
 개발 기간     : 2024.10.07 ~ 2024.11.11 (5 주간)
-사용 언어     : C++ / 블루 프린트
+사용 언어     : Only Blueprint
 ```
-
