@@ -2,7 +2,8 @@
 
 언리얼 개인 모작 포트폴리오 제작 자료입니다.
 
-기획서 링크 : http://naver.me/FN745xuS
+노션 링크 : https://overcle.notion.site/Lies-of-P-174e44d1138680f7bd86d1266e9cb7d6?pvs=4
+유튜브 링크 : https://youtu.be/CE2KgXUPGG0
 
 
 ```
