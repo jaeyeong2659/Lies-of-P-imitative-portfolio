@@ -17,7 +17,9 @@
 본 프로젝트는 **블루프린트**로만 작업되었으며, 별도의 소스 코드는 없습니다.  
 
 📽 **[시연 영상 확인](https://youtu.be/CE2KgXUPGG0)**  
-📑 **[노션 상세 문서](https://overcle.notion.site/Lies-of-P-174e44d1138680f7bd86d1266e9cb7d6?pvs=4)**  
+📑 **[노션 상세 문서](https://www.notion.so/overcle/Lies-of-P-1b5e44d1138680219f44da7db77e9b76?pvs=4)**  
+📜 **[기술 문서 확인](http://naver.me/FSwounln)** 
+
 
 ---
 
